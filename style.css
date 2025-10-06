@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+table{
+    margin: auto;
+    font-size:24px;
+}
+caption{
+    font-size:32px;
+}

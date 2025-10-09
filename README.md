@@ -1,3 +1,3 @@
-# git init
-# git_sample
-ПЕРЕЗАПИСЬ!
+git init
+git_sample
+ПЕРЕЗАПИСАНО
